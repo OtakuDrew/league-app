@@ -1,0 +1,64 @@
+#main{
+    background-image: url('../assets/leaguewallpaper.jpg');
+    height: 100%;
+    width:100%;
+    background-size: cover;
+}
+.main-container {
+    height: 80%;
+    width:70%;
+    margin-left:15%;
+    border:2px solid black;
+    border-radius: 30px;
+    background-color: ghostwhite;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#champ1 {
+    height:250px;
+    width:90%;
+    margin-left:5%;
+    background-image: url('../assets/vayne.jpg');
+    
+    background-size: cover;
+    
+    border:2px solid black;
+    border-radius: 20px;
+
+}
+#champ2 {
+    height:250px;
+    width:90%;
+    margin-left:5%;
+    background-image: url('../assets/ahri.png');
+    
+    background-size: cover;
+    
+    border:2px solid black;
+    border-radius: 20px;
+
+}
+#champ3 {
+    height:250px;
+    width:90%;
+    margin-left:5%;
+    background-image: url('../assets/Draven.png');
+    
+    background-size: cover;
+    
+    border:2px solid black;
+    border-radius: 20px;
+
+}
+.mast7 {
+    height:120px;
+    width:120px;
+    margin-left:15%;
+
+    background-image:url(../assets/mast7.png);
+    background-size:cover;
+}
+.points {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:2em;
+}
